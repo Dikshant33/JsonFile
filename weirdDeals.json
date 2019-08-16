@@ -1,0 +1,43 @@
+{
+	"StoreName": "Weird Deals",
+	"StoreLocation": "Missisagua , Canada",
+	
+	"weirdDeals": [
+        {
+            "name": "High Quality Headphone",
+			"price": 45,
+			"description": "Best ever headphone that support all kind of music with hd music",
+			"fectures": [
+				"3D sound",
+				"safe for use"
+				
+			
+			],
+			"image": "headphones.jpg"
+        },
+           {
+            "name": "Bluetooth Speaker",
+			"price": 40,
+			"description": "Quality comapny speaker supooorted by people and rated best bluetooth spaker",
+			"fectures": [
+				"Supports Dolby atmos",
+				"Preety handy"
+				
+				
+			],
+			"image": "speaker.jpeg"
+        },
+           {
+            "name": "Android Tablet",
+			"price": 150,
+			"description": "Best for Study purpose",
+			"fectures": [
+				"Parental Control ",
+				"Latest Android"
+			
+				
+			],
+			"image": "tablet.jpg"
+        }
+	]
+}
